@@ -16,8 +16,8 @@ Game ini bertujuan untuk menebak gambar yang muncul di layar dengan pilihan jawa
 
 📸 Tampilan Game
 
-<img src="https://raw.githubusercontent.com/boyzfire09/tebak-gambar/64b1a691fafde43e509b68fed1bba3dc12574546/Screenshot%20(869).png" width="300"> 
-<img src="https://raw.githubusercontent.com/boyzfire09/tebak-gambar/64b1a691fafde43e509b68fed1bba3dc12574546/Screenshot%20(870).png" width="300"> 
+<img src="https://raw.githubusercontent.com/boyzfire09/tebak-gambar/main/Screenshot%20(869).png" width="250"> 
+<img src="https://raw.githubusercontent.com/boyzfire09/tebak-gambar/main/Screenshot%20(870).png" width="250">
 
 
 
